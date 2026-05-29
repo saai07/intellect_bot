@@ -1,4 +1,4 @@
-# Intellect Support Bot — AI Company Chatbot
+# Intellect Support Bot — Company Chatbot
 
 A RAG-powered customer support chatbot built with Streamlit, Google Gemini, and FAISS vector search. The bot answers customer queries using your company's knowledge base extracted from a PDF.
 
@@ -167,7 +167,3 @@ All settings are defined in `src/config.py` and can be overridden via `.env`:
 4. Copy the key and paste it in your `.env` file
 
 ---
-
-## License
-
-MIT
