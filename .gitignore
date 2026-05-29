@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Vector store (auto-generated)
+vector_store/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
