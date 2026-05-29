@@ -107,7 +107,9 @@ conda activate intellect_bot
 
 ```bash
 pip install -r requirements.txt
-if numpy faily please run the command below
+```
+if numpy fail please run the command below
+```bash
 pip install "numpy<2"
 ```
 
