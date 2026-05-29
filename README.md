@@ -1,4 +1,4 @@
-# 🤖 IntellectBot — AI Company Chatbot
+#  IntellectBot — AI Company Chatbot
 
 A **RAG-powered** customer support chatbot built with **Streamlit**, **Google Gemini**, and **FAISS** vector search. The bot answers customer queries using your company's knowledge base extracted from a PDF.
 
